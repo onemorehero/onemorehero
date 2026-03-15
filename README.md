@@ -1,29 +1,16 @@
-## Hi there 👋
-# 👨‍💻 مرحبًا بك في مساحتي البرمجية
+# Hi there! 👨‍💻
 
-### 🚀 عني (Technical Profile)
-- مطور ويب مهتم ببناء واجهات مستخدم سلسة وأنيقة.
-- أركز حالياً على تطوير مهاراتي في **Front-end Development**.
-- أؤمن بكتابة كود نظيف وقابل للصيانة.
+### 🚀 Technical Profile
+- Passionate about building clean, efficient, and user-friendly web applications.
+- Currently focusing on mastering **Front-end Development** and modern web technologies.
+- Committed to writing scalable code and following best practices.
 
-### 🛠 الأدوات والتقنيات (Tech Stack)
+### 🛠 Tech Stack & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 إحصائيات GitHub
-![إحصائياتي](https://github-readme-stats.vercel.app/api?username=اكتب_اسم_حسابك_هنا&show_icons=true&theme=radical)
-<!--
-**onemorehero/onemorehero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
