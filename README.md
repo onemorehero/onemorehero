@@ -12,5 +12,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🤝 Connect with me
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/اكتب_الـ_ID_بتاعك_هنا)
+
 ### 📈 GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=onemorehero&show_icons=true&theme=tokyonight)
